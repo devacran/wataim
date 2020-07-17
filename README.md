@@ -1,4 +1,4 @@
-# Product Name
+# wataim
 
 A simply util to show the current time in your local zone
 
